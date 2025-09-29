@@ -4,7 +4,7 @@
   "types": "src/index.d.ts",
   "name": "@nozbe/watermelondb",
   "description": "Build powerful React Native and React web apps that scale from hundreds to tens of thousands of records and remain fast",
-  "version": "0.28.0",
+  "version": "0.28.1-0",
   "engines": {"node": ">=18"},
   "author": "@Nozbe",
   "homepage": "https://github.com/Nozbe/WatermelonDB#readme",
@@ -36,7 +36,7 @@
     "@nozbe/simdjson": "3.9.4",
     "@nozbe/sqlite": "3.46.0",
     "hoist-non-react-statics": "^3.3.2",
-    "lokijs": "npm:@nozbe/lokijs@1.5.12-wmelon6",
+    "lokijs": "npm:@nozbe/lokijs@1.5.12-wmelon8",
     "rxjs": "^7.8.1",
     "sql-escape-string": "^1.1.0"
   },
